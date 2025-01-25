@@ -6,7 +6,7 @@
 
 Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm sài trang web vào mục đích cờ bạc, cá cược!!!!
 
-                Trang web giải trí tết: https://trietpko2002.github.io/
+  - Trang web giải trí tết: https://trietpko2002.github.io/
 
 
 # Cập nhật phiên bản 📅
