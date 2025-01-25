@@ -22,15 +22,18 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 - Cập nhật V.2.0 23/01/2025:
 
         Thay đổi giao diện cùng không khí tết
+  
         Cập nhật lại giao diện các trò chơi cũ 
         và đổi lại cơ chế.
 - Cập nhật V.1.5 01/02/2024:
 
         Thêm trò chơi mới: Nhận bao lì xì
+  
         Đổi lại cơ chế trò đoán lì xì.
 - V.1.0.beta 28/01/2024:
 
         Trò chơi: Chúc tết, đoán lì xì
+  
         Web sơ khai
 
 
