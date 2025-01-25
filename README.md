@@ -23,8 +23,7 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 
         Thay đổi giao diện cùng không khí tết
   
-        Cập nhật lại giao diện các trò chơi cũ 
-        và đổi lại cơ chế.
+        Cập nhật lại giao diện các trò chơi cũ và đổi lại cơ chế.
 - Cập nhật V.1.5 01/02/2024:
 
         Thêm trò chơi mới: Nhận bao lì xì
