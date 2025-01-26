@@ -17,7 +17,6 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 
         Chuyển hướng web PC sang web cho điện thoại
 
-        Thêm câu chúc tết hay
 - Cập nhật V.2.3 24/01/2025:
 
         Cập nhật bộ đếm ngược tết
