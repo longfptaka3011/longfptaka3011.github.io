@@ -11,7 +11,14 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 
 # Cập nhật phiên bản 📅
 
-- Cập nhật V.2.1 24/01/2025:
+- Cập nhật V.2.5 26/01/2025:
+
+        Cập nhật giao diện cho điện thoại
+
+        Chuyển hướng web PC sang web cho điện thoại
+
+        Thêm câu chúc tết hay
+- Cập nhật V.2.3 24/01/2025:
 
         Cập nhật bộ đếm ngược tết
 
