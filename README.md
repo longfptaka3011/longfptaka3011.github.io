@@ -55,6 +55,20 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 ![App Screenshot](https://trietpko2002.github.io/src/4.png)
 
 ![App Screenshot](https://trietpko2002.github.io/src/5.png)
+
+# Ảnh chụp màn hình giao diện điện thoại:
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/1.jpg)
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/2.jpg)
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/3.jpg)
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/4.jpg)
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/5.jpg)
+
+![App Screenshot](https://trietpko2002.github.io/src_phone/6.jpg)
 ## Bugs
 
 - Chưa tối ưu trang web cho thiết bị điện thoại. 
