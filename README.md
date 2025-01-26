@@ -70,11 +70,8 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 
 ![App Screenshot](https://trietpko2002.github.io/src_phone/6.jpg)
 ## Bugs
-
-- Chưa tối ưu trang web cho thiết bị điện thoại. 
 - Nhạc nền lúc chạy lúc không :v
-- Web cỡ tối thì wifi Viettel sẽ bị chậm load web
-
+- Nên dùng 4G trải nghiệm, wifi tầm giờ tối sẽ load page không nổi
 
 ## Hỗ trợ về phần web này
  Các bạn liên hệ qua email này : phanranggaming@gmail.com đễ hỗ trợ dự án này
