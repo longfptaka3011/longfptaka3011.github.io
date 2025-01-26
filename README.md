@@ -6,7 +6,15 @@
 
 Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm sài trang web vào mục đích cờ bạc, cá cược!!!!
 
-  - Trang web giải trí tết: https://trietpko2002.github.io/
+  - Trang web giải trí tết: https://trietpko2002.github.io
+  - Lưu ý:
+      - Yêu cầu để chạy web:
+        
+          PC/Laptop/macOS: Từ Windows 7 và macOS 10.12 trở lên có Javascript và cập nhật Chrome/Coccoc/Barve/Egde/Firefox bản mới nhất
+        
+          Android: Từ Android 7 trở lên, cập nhật Chrome/Coccoc/Barve/Egde/Firefox bản mới nhất
+        
+          iOS/iPadOS: Từ iOS/iPadOS 12 trở lên có Javascript
 
 
 # Cập nhật phiên bản 📅
