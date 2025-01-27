@@ -14,7 +14,7 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
         
             Android: Từ Android 7 trở lên, cập nhật Chrome/Coccoc/Barve/Egde/Firefox bản mới nhất
         
-            iOS/iPadOS: Từ iOS/iPadOS 12 trở lên có Javascript
+            iOS/iPadOS: Từ iOS/iPadOS 13 trở lên có Javascript, lưu ý phải từ iPhone 7 trở lên chạy không bị lỗi ạ! còn không thì cài Chrome chạy ạ!
 
 
 # Cập nhật phiên bản 📅
