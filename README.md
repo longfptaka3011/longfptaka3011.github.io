@@ -19,6 +19,14 @@ Web này mình tạo ra để cho anh em giải trí mùa tết, nghiêm cấm s
 
 # Cập nhật phiên bản 📅
 
+- Cập nhật V.3.0.FN 26/01/2025:
+
+        Sửa lỗi trang chủ giao diện điện thoại trên các dòng iPhone và 1 số dòng Android
+
+        Đổi lại cơ chế nhận lì xì ngẫu nhiên
+
+        Sửa lại giao diện index cho điện thoại
+
 - Cập nhật V.2.5 26/01/2025:
 
         Cập nhật giao diện cho điện thoại
